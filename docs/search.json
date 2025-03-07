@@ -19,5 +19,12 @@
     "title": "Welcome To My Blog",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Issac Lee",
+    "section": "",
+    "text": "통계와 데이터 분석을 재미있게 만들어 드립니다."
   }
 ]
